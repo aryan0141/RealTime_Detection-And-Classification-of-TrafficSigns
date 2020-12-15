@@ -1,5 +1,6 @@
-##Real-Time Detection And Classification of Traffic Signs using YOLOv5s object detection algorithm.
-###Directions to Run The Code
+## Real-Time Detection And Classification of Traffic Signs using YOLOv5s object detection algorithm.
+
+### Directions to Run The Code
 
 1) Open the main directory named RecogniSign in your command prompt.
 2) Firstly install all the required dependencies using the requirements.txt fileIf you are using windows machine:
