@@ -1,0 +1,77 @@
+200m
+50-100m
+Ahead-Left
+Ahead-Right
+Axle-load-limit
+Barrier Ahead
+Bullock Cart Prohibited
+Cart Prohobited
+Cattle
+Compulsory Ahead
+Compulsory Keep Left
+Compulsory Left Turn
+Compulsory Right Turn
+Cross Road
+Cycle Crossing
+Compulsory Cycle Track
+Cycle Prohibited
+Dangerous Dip
+Falling Rocks
+Ferry
+Gap in median
+Give way
+Hand cart prohibited
+Height limit
+Horn prohibited
+Humpy Road
+Left hair pin bend
+Left hand curve
+Left Reverse Bend
+Left turn prohibited
+Length limit
+Load limit 5T
+Loose Gravel
+Major road ahead
+Men at work
+Motor vehicles prohibited
+Nrrow bridge
+Narrow road ahead
+Straight prohibited
+No parking
+No stoping
+One way sign
+Overtaking prohibited
+Pedestrian crossing
+Pedestrian prohibited
+Restriction ends sign
+Right hair pin bend
+Right hand curve
+Right Reverse Bend
+Right turn prohibited
+Road wideness ahead
+Roundabout
+School ahead
+Side road left
+Side road right
+Slippery road
+Compulsory sound horn
+Speed limit
+Staggred intersection
+Steep ascent
+Steep descent
+Stop
+Tonga prohibited
+Truck prohibited
+Compulsory turn left ahead
+Compulsory right turn ahead
+T-intersection
+U-turn prohibited
+Vehicle prohibited in both directions
+Width limit
+Y-intersection
+Sign_C
+Sign_T
+Sign_S
+No entry
+Compulsory Keep Right
+Parking
