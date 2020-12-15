@@ -19,13 +19,10 @@ python detect.py --source ../Test/test.jpg
 ```
 #### Above same step can also be used to test the model on video files.
 #### For running on WebCam run $ python detect.py --source 0
-##### A pop up window appears as shown below in Fig.2, showing the bounding boxes of all Trafficsigns present in that frame with their label and accuracy score. FPS for each frame is also shown in the top-left corner of that window.
-#### Also, the output results are saved in the directory named Results
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+### Check the sample video named - vidd1.mp4
+### Complete information and specifications are written in the pdf named Documentation.
+
+## Contibutors-
+### Aryan Garg
+### Kartik Aggarwal
