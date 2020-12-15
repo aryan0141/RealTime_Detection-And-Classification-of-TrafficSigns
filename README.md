@@ -22,7 +22,9 @@ python detect.py --source ../Test/test.jpg
 ```diff
 python detect.py --source 0
 ```
-### Check the sample video named - vidd1.mp4
+```diff
+-Check the sample video named - vidd1.mp4
+```
 ### Complete information and specifications are written in the pdf named Documentation.
 
 ### Contibutors-
