@@ -24,5 +24,4 @@ python detect.py --source ../Test/test.jpg
 ### Complete information and specifications are written in the pdf named Documentation.
 
 ## Contibutors-
-### Aryan Garg
-### Kartik Aggarwal
+### Aryan Garg & Kartik Aggarwal
