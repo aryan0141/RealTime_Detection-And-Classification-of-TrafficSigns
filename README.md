@@ -23,5 +23,5 @@ python detect.py --source ../Test/test.jpg
 ### Check the sample video named - vidd1.mp4
 ### Complete information and specifications are written in the pdf named Documentation.
 
-## Contibutors-
-### Aryan Garg & Kartik Aggarwal
+### Contibutors-
+Aryan Garg & Kartik Aggarwal
