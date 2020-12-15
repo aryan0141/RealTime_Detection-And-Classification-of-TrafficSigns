@@ -1,7 +1,7 @@
 ## Real-Time Detection And Classification of Traffic Signs using YOLOv5s object detection algorithm.
 
 ### Directions to Run The Code-
-#### Open the main directory named RecogniSign in your command prompt.
+#### 1) Open the main directory named RecogniSign in your command prompt.
 ```diff 
 pip install requirements.txt
 ```
@@ -9,7 +9,7 @@ pip install requirements.txt
 ```diff 
 cd Codes
 ```
-#### Before running the next command, put your test file in the directory named Test.
+#### 2) Before running the next command, put your test file in the directory named Test.
 ```diff
 python detect.py --source ../Test/(name of your file)
 ````
@@ -18,14 +18,14 @@ python detect.py --source ../Test/(name of your file)
 python detect.py --source ../Test/test.jpg
 ```
 #### Above same step can also be used to test the model on video files.
-#### For running on WebCam run-
+#### 3) For running on WebCam run-
 ```diff
 python detect.py --source 0
 ```
 ```diff
 Check the sample video named - vidd1.mp4
 ```
-### Complete information and specifications are written in the pdf named Documentation.
+### 4) Complete information and specifications are written in the pdf named Documentation.
 
-### Contibutors-
+### 5) Contibutors-
 Aryan Garg & Kartik Aggarwal
