@@ -15,7 +15,7 @@ python detect.py --source ../Test/(name of your file)
 ````
 #### For eg- If your image name is test.jpg, then put your image in the directory named Test and then run-
 ```diff
-python detect.py --source ../Test/test.jpg
+python detect.py --source ../Test/test1.jpeg
 ```
 #### Above same step can also be used to test the model on video files.
 #### 3) For running on WebCam run-
